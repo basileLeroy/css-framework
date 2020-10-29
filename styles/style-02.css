@@ -1,4 +1,12 @@
 body {
-  background-color: #f7f2e7;
+  background-color: #1f3c88;
+}
+
+body .jumbotron {
+  background-color: #707070;
+}
+
+body .jumbotron-fluid {
+  background-color: #f6f5f5;
 }
 /*# sourceMappingURL=style-02.css.map */
