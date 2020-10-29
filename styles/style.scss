@@ -1,0 +1,11 @@
+body {
+    background-color: #b9fffc;
+
+
+    .card {
+
+        &:hover {
+            box-shadow: 0 0 20px #797a7e; 
+        }
+    }
+}

@@ -1,0 +1,9 @@
+body {
+  background-color: #b9fffc;
+}
+
+body .card:hover {
+  -webkit-box-shadow: 0 0 20px #797a7e;
+          box-shadow: 0 0 20px #797a7e;
+}
+/*# sourceMappingURL=style.css.map */
